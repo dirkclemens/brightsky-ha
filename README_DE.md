@@ -66,7 +66,7 @@ Wenn Probleme auftreten:
 
 ## Lizenz
 
-Diese Integration steht unter [MIT-Lizenz](LICENSE).
+Diese Integration steht unter der [Creative Commons BY 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) Lizenz.
 
 ## Danksagung
 
