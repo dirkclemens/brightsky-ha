@@ -68,6 +68,10 @@ If problems occur:
 
 This integration is licensed under the [Creative Commons BY 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
+See also:
+* https://brightsky.dev/
+* https://www.dwd.de/EN/service/legal_notice/legal_notice.html
+
 ## Acknowledgements
 
 - [BrightSky](https://brightsky.dev/) for the great, free API
