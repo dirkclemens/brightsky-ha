@@ -66,7 +66,7 @@ If problems occur:
 
 ## License
 
-This integration is licensed under the [MIT License](LICENSE).
+This integration is licensed under the [Creative Commons BY 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Acknowledgements
 
